@@ -6,25 +6,9 @@
 ![yyyyyyyyyyyyyy](https://user-images.githubusercontent.com/107000262/232853263-5129093a-0bc7-4170-b1be-a5c951e11d3d.png)
 
 ### Package entities :
-- L'entité Patient :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/46.png)
+![uuuuuuuuuuuuuuuuu](https://user-images.githubusercontent.com/107000262/232855779-68d33367-697f-4256-81bf-cfcb0b95f1a6.png)
 
-- L'entité Medecin :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/47.png)
-
-- L'entité RendezVous :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/48.png)
-
-- L'entité Consultation :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/49.png)
-
-- L'entité StatusRDV :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/50.png)
 
 ### Package repositories :
 - L'interface PatientRepository :
