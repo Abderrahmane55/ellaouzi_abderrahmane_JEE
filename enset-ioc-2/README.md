@@ -13,14 +13,14 @@ Package Dao et Ext:
 ![dao](https://user-images.githubusercontent.com/107000262/232847418-4eed8d75-8d08-4392-b4f4-331863d0d463.png)
 
 
-Metier:
+Package Metier:
 
 
 ![metier ](https://user-images.githubusercontent.com/107000262/232847897-5799f1e0-506b-4bd9-98b5-1791c5b031d9.png)
 
 
 
-(package test / metier): Classe CalculTest
+Package test / metier: Classe CalculTest
 
 
 ![calcul test ](https://user-images.githubusercontent.com/107000262/232848423-e1a82a21-a0b7-4dcd-8cdf-e578eac195ef.png)
@@ -29,7 +29,7 @@ Metier:
 
 
 
-Pres:
+Package Pres:
 
 
 
