@@ -11,28 +11,12 @@
 
 
 ### Package repositories :
-- L'interface PatientRepository :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/51.png)
-
-- L'interface MedecinRepository :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/52.png)
-
-- L'interface RendezVousRepository :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/54.png)
-
-- L'interface ConsultationRepository :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/53.png)
+![kkkkkkkkkkkkkkk](https://user-images.githubusercontent.com/107000262/232856202-dc0230e8-66cb-4b7f-96b2-a1165eb63760.png)
 
 ### Package service :
-- L'interface IHospitalService et la classe IHospitalServiceImpl qui implémente cette interface :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/55.png)
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/56.png)
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/57.png)
+![image](https://user-images.githubusercontent.com/107000262/232856487-3d0df6ab-d9bb-4964-afd9-3176ed9e1e49.png)
 
 ### Package web :
 - La classe PatientController :
@@ -41,9 +25,8 @@
 
 - La classe HospitalApplication :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/59.png)
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/60.png)
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/61.png)
+![app](https://user-images.githubusercontent.com/107000262/232857350-399f4bf0-234d-497b-8afd-28f9b094de4b.png)
+
 
 - Le fichier application.properties :
 
