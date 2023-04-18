@@ -39,19 +39,20 @@ fichier application.properties :
 
  La table Patient :
 
-![patient](https://user-images.githubusercontent.com/107000262/232859291-316a4167-da53-4f06-91a8-a5166e4e6660.png)
+![patientt](https://user-images.githubusercontent.com/107000262/232860895-777ee011-72f4-4ec7-bdd1-009057c0ad80.png)
+
 
  La table Medecin :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/39.png)
+![medecin](https://user-images.githubusercontent.com/107000262/232860955-348ab234-9fd3-4d7e-bfbb-4d726b0bf1e0.png)
 
-La table RendezVous :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/43.png)
+
 
 La table Consultation :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/42.png)
+![consultation](https://user-images.githubusercontent.com/107000262/232860998-2faa261d-5f5a-4e4a-b67e-6c099ba39da1.png)
+
 
 Résultats :
 
