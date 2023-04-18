@@ -24,17 +24,6 @@ Metier:
 ![calcul test ](https://user-images.githubusercontent.com/107000262/232848423-e1a82a21-a0b7-4dcd-8cdf-e578eac195ef.png)
 
 
-(package pres):
-
-![pres](https://user-images.githubusercontent.com/107000262/232848866-6183814e-ce99-443a-bf3a-8c6ff56b003e.png)
-
-
-Package Ma.enset:
-
-
-![main ](https://user-images.githubusercontent.com/107000262/231319448-1e87dfb5-5c13-4538-b8ba-56ee1adad217.png)
-
-
 
 
 
