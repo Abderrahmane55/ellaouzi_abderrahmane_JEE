@@ -2,7 +2,8 @@
 
  Architecture du projet :
 
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/45.png)
+
+![yyyyyyyyyyyyyy](https://user-images.githubusercontent.com/107000262/232853263-5129093a-0bc7-4170-b1be-a5c951e11d3d.png)
 
 ### Package entities :
 - L'entité Patient :
