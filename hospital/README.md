@@ -28,11 +28,11 @@
 ![app](https://user-images.githubusercontent.com/107000262/232857350-399f4bf0-234d-497b-8afd-28f9b094de4b.png)
 
 
-- Le fichier application.properties :
+-fichier application.properties :
 
 ![,,,,,,,,,,,,,,,](https://user-images.githubusercontent.com/107000262/232857572-7a025f56-8546-4cc1-a84a-f6f241d04772.png)
 
-- Start H2Database :
+- Connect H2Database :
 
 ![xxxxxxxxx](https://user-images.githubusercontent.com/107000262/232858773-9447fea3-fca8-479c-b77a-a6868aa657bb.png)
 
