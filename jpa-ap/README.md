@@ -13,6 +13,9 @@ Classes: Patient + PatientRepository:
 Classe JpaApplication:
 
 ![eeeeeeeeeeeeeeeeeeeeeeeeee](https://user-images.githubusercontent.com/107000262/232951384-d28b670b-9eda-4dad-a1fd-9cca5949fa25.png)
+
 ![eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://user-images.githubusercontent.com/107000262/232951394-496a56eb-5025-4c73-be0d-0618fe125868.png)
 
 Result:
+
+![swww](https://user-images.githubusercontent.com/107000262/232960739-b4c5e5af-0c01-4fa8-bc1f-4e50d0e24691.png)
