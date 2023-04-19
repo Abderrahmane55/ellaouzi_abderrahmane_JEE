@@ -23,3 +23,6 @@ Result:
 Database Start :
 
 ![nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn](https://user-images.githubusercontent.com/107000262/232961094-78c8de68-1ffb-4be0-b6c6-c3ff945df543.png)
+
+sql:
+![iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii](https://user-images.githubusercontent.com/107000262/232961703-a0ebc586-7a53-4fba-8928-3a18723b25fe.png)
