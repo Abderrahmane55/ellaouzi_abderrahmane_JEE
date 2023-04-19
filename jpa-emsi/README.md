@@ -26,6 +26,7 @@ Package web :
 
 La classe JpaEmsiApplication :
 
+![xxxxxxxxxxxxxxxx](https://user-images.githubusercontent.com/107000262/232957735-d91bd95e-01bc-4096-8bac-d274bcaa913e.png)
 
 
 
