@@ -13,7 +13,7 @@
 <img width="714" alt="PatientController" src="https://user-images.githubusercontent.com/106871413/233063096-ba3ea8bc-2c73-4a3e-b147-e80a7610eeb7.png">
 - PatientMvcApplication :
 <img width="742" alt="Patientmvc" src="https://user-images.githubusercontent.com/106871413/233063570-f7ecf97a-3b5a-466c-913f-440fa4439858.png">
-#### Resultat :
+
 
 
 
