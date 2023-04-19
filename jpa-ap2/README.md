@@ -3,6 +3,8 @@
             
 
 #### Architecture du projet :
+![image](https://user-images.githubusercontent.com/107000262/233133435-3698a32e-af1b-4c25-92f9-e667151557e1.png)
+
 ![image](https://user-images.githubusercontent.com/107000262/233124129-67c7138b-6eca-4db0-a6a1-c910d8ef5ffa.png)
 ### Package entities :
 - L'entité Patient :
