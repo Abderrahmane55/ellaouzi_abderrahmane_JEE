@@ -5,7 +5,7 @@ This repository contains :
 
 Activity1:
 
-https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/enset-ioc-2
+https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/enset-ioc-2
 
 Activity2:
 
