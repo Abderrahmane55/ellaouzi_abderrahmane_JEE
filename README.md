@@ -3,11 +3,11 @@
 
 By: Ellaouzi Abderrahmane. This repository contains :
 
-## Activity 1
+## Activity 1:
 
 https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/enset-ioc-2
 
-## Activity 2 
+## Activity 2:
 
 part1: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap
 
