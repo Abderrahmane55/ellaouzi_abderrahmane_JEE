@@ -31,6 +31,20 @@ La classe JpaEmsiApplication :
 
 ![ggggggggggggggggggggggggggggggggg](https://user-images.githubusercontent.com/107000262/232958009-3825c83d-bbe8-45ee-ade9-c81244283c9a.png)
 
+En utilisant H2Database :
+La table Users :
+
+![la table users ](https://user-images.githubusercontent.com/107000262/232970502-31aec59d-4aa1-42eb-bb7e-b7529118e0dc.png)
+
+La table Role :
+
+![la table role ](https://user-images.githubusercontent.com/107000262/232970545-1632fb9d-c9f6-42d2-9872-ae0629ca9576.png)
+
+La table Role Users:
+
+![la table role users ](https://user-images.githubusercontent.com/107000262/232970601-e9b5b285-9d1a-4632-b0b1-77d156957a9f.png)
+
+
 Resultats Affichage des roles des Users : 
 
 ![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
