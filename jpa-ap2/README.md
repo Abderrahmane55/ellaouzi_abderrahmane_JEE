@@ -1,6 +1,6 @@
                             Activite 3-JEE : Spring Boot Spring MVC Thymeleaf Spring Data
 
-             Activity 3 : Spring Boot Spring MVC avec Thymeleaf Spring Data
+            
 
 #### Architecture du projet :
 ![image](https://user-images.githubusercontent.com/107000262/233124129-67c7138b-6eca-4db0-a6a1-c910d8ef5ffa.png)
