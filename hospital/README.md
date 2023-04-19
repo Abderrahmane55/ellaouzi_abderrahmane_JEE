@@ -25,7 +25,8 @@ Package web :
 
 La classe HospitalApplication :
 
-![app](https://user-images.githubusercontent.com/107000262/232857350-399f4bf0-234d-497b-8afd-28f9b094de4b.png)
+
+![appli](https://user-images.githubusercontent.com/107000262/232944217-25312824-c1be-4257-8d56-22f16c283189.png)
 
 
 fichier application.properties :
