@@ -17,3 +17,4 @@ part3: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa
 
 ## Activity 3 : 
 
+https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2 
