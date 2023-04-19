@@ -10,12 +10,12 @@ By : Ellaouzi Abderrahmane. This repository contains :
 
 ## Activity 2 :
 
-part1: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap
+part1: - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap
 
-part2: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/hospital
+part2: - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/hospital
 
-part3: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-emsi
+part3: - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-emsi
 
 ## Activity 3 : 
 
-https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2 
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2 
