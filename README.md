@@ -2,7 +2,7 @@
 #  JEE Activities Encadrant : Professeur Mohamed YOUSSFI 
                
 
-By : Ellaouzi Abderrahmane. This repository contains :
+Inversion de contrôle et Injection des dépendances. This repository contains :
 
 ## Activity 1 :
 
