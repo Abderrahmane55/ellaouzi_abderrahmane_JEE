@@ -11,6 +11,6 @@ Activity2:
 
 part1: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap
 
-part2:
+part2: https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/hospital
 
 part3: 
