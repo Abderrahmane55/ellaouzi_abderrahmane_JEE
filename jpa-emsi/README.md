@@ -46,9 +46,7 @@ La table Role Users:
 ![la table role users ](https://user-images.githubusercontent.com/107000262/232970601-e9b5b285-9d1a-4632-b0b1-77d156957a9f.png)
 
 
-Resultats Affichage des roles des Users : 
 
-![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
 
 
 En utilisant MySql :
@@ -67,7 +65,11 @@ La table User:
 
 ![table_users_](https://user-images.githubusercontent.com/107000262/232960134-bbdf6217-215a-43ce-9ae8-8ca1acad3ec6.png)
 
+Résultats :
 
+Affichage des rôles d'utilisateur (user1) :
+
+![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
 
 
 
