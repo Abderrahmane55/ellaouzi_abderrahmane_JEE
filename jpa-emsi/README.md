@@ -31,7 +31,7 @@ La classe JpaEmsiApplication :
 
 ![ggggggggggggggggggggggggggggggggg](https://user-images.githubusercontent.com/107000262/232958009-3825c83d-bbe8-45ee-ade9-c81244283c9a.png)
 
-Resultats: 
+Resultats Affichage des roles des Users : 
 
 ![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
 
