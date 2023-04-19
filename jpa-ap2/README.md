@@ -3,7 +3,7 @@
 ### Activity 3 : Spring Boot Spring MVC avec Thymeleaf Spring Data
 
 #### Architecture du projet :
-![image](https://user-images.githubusercontent.com/107000262/233123857-d6c8e7ce-d2e7-48ea-ba54-1ed6ec9ebd61.png)
+![image](https://user-images.githubusercontent.com/107000262/233124129-67c7138b-6eca-4db0-a6a1-c910d8ef5ffa.png)
 ### Package entities :
 - L'entité Patient :
 <img width="649" alt="entite patient" src="https://user-images.githubusercontent.com/106871413/233062345-8df5850d-0ec4-43dd-b2a1-f8debb842777.png">
