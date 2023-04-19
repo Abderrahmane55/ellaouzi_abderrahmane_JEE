@@ -1,7 +1,7 @@
 #  JEE Activities Encadrant : Professeur Mohamed YOUSSFI 
                
 
-By: Ellaouzi Abderrahmane. This repository contains :
+By : Ellaouzi Abderrahmane. This repository contains :
 
 ## Activity 1 :
 
