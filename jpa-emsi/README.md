@@ -72,7 +72,17 @@ Affichage des rôles d'utilisateur (user1) :
 ![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
 
 
+Informations sur l'utilisateur (admin) : 
 
+
+![admin](https://user-images.githubusercontent.com/107000262/232971032-a01b6692-4225-4c33-b9c9-e95d366bd14c.png)
+
+
+Informations sur l'utilisateur (user1) :
+
+
+
+![user 1 ](https://user-images.githubusercontent.com/107000262/232971036-79154da8-a341-4884-a0ac-f05180224d5a.png)
 
 
 
