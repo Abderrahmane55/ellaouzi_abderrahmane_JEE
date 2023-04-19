@@ -14,8 +14,6 @@
 - PatientMvcApplication :
 <img width="742" alt="Patientmvc" src="https://user-images.githubusercontent.com/106871413/233063570-f7ecf97a-3b5a-466c-913f-440fa4439858.png">
 #### Resultat :
-<img width="921" alt="rESUL" src="https://user-images.githubusercontent.com/106871413/233063967-48a0bd7f-74d5-495e-a84f-bf2f8f54f93f.png">
-- La table des patients :
-<img width="564" alt="Lah" src="https://user-images.githubusercontent.com/106871413/233064379-1d65910f-b18f-44b0-962f-8d364e4d7b25.png">
+
 
 
