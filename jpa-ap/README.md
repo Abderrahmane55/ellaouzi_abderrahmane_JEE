@@ -16,7 +16,12 @@ Classe JpaApplication:
 
 ![eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://user-images.githubusercontent.com/107000262/232951394-496a56eb-5025-4c73-be0d-0618fe125868.png)
 
-Result:
+
+Fichier Application.properties:
+![config ](https://user-images.githubusercontent.com/107000262/232972247-a91f8036-ed6a-4fc9-ac2d-f650ed89c649.png)
+
+
+Resultat:
 
 ![swww](https://user-images.githubusercontent.com/107000262/232960739-b4c5e5af-0c01-4fa8-bc1f-4e50d0e24691.png)
 
