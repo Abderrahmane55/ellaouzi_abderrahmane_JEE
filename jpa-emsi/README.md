@@ -33,6 +33,12 @@ La classe JpaEmsiApplication :
 
 Resultats: 
 
+![role](https://user-images.githubusercontent.com/107000262/232958835-f660bafd-624e-402f-8cf2-7079a6f94230.png)
+
+
+
+
+
 
 
 
