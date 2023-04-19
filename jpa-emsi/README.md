@@ -46,10 +46,11 @@ La table  role:
 
 ![table_role_1](https://user-images.githubusercontent.com/107000262/232960007-db4e70ad-e844-4605-a02f-b5e905916aaa.png)
 
-La table User: 
+La table Role User: 
 
 ![table_role_user_2](https://user-images.githubusercontent.com/107000262/232960132-3a1635a8-5ade-4e69-83da-c6080f23eae8.png)
 
+La table User:
 
 ![table_users_](https://user-images.githubusercontent.com/107000262/232960134-bbdf6217-215a-43ce-9ae8-8ca1acad3ec6.png)
 
