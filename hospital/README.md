@@ -54,7 +54,3 @@ La table Consultation :
 
 ![consultation](https://user-images.githubusercontent.com/107000262/232860998-2faa261d-5f5a-4e4a-b67e-6c099ba39da1.png)
 
-
-Résultats :
-
-![Login](https://github.com/HousnaAghzer/All-Ressources-/blob/master/44.png)
