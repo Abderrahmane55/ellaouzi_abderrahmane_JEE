@@ -15,4 +15,3 @@ PatientController:
 
 ![jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj](https://user-images.githubusercontent.com/107000262/233134346-3cb8cd57-b44b-4dee-bd17-9453628150de.png)
 
-![image](https://user-images.githubusercontent.com/107000262/233134531-9e8bb20c-aa06-42fc-a91b-b22a24a3abab.png)
