@@ -18,6 +18,7 @@ Classe JpaApplication:
 
 
 Fichier Application.properties:
+
 ![config ](https://user-images.githubusercontent.com/107000262/232972247-a91f8036-ed6a-4fc9-ac2d-f650ed89c649.png)
 
 
