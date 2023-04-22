@@ -33,10 +33,16 @@ Main:
 
 ![maaaaaaaaaaaaaaaain](https://user-images.githubusercontent.com/107000262/233136504-12d4cb1f-a2a1-444d-91b5-9c22a35a6f94.png)
 
+Resultat:
+
+<img width="723" alt="patient abderahmane " src="https://user-images.githubusercontent.com/107000262/233812078-fc95b3b1-8e47-4b91-bb2c-0a884020f993.png">
+
+Patients table:
 
 
 
 
+<img width="699" alt="9999999999999999999" src="https://user-images.githubusercontent.com/107000262/233812089-885b000e-6971-4013-b8b4-c016e60b6168.png">
 
 
 
