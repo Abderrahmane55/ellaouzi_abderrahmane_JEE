@@ -99,7 +99,9 @@ Base de donnees MySQL:
 
 ![3](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/69c595b7-ffbe-4397-8d29-2283427ea51c)
 Resultats:
-![4](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/4ede6ad6-8ad2-4def-a770
+![4](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/428f5750-8bfe-46ce-9e8e-b50495b8bf67)
+
+
 ![5](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/5f4f8405-a72e-41e2-a8e2-4395c1383345)
 
 ![6](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/9d40ce8c-9d16-4e27-8173-c698f1a1b6f2)
