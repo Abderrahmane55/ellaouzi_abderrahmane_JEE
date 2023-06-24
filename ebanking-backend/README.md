@@ -14,6 +14,75 @@ Dtos:
 ![Screenshot (10)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/654648ba-9bb3-4b46-8ba3-778f0190a59c)
 ![Screenshot (11)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/7e0d6157-f834-4406-862f-79c9e14d77b8)
 
+Entities:
+
+
+
+![Screenshot (12)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/de0b4b76-5108-4ab2-a85e-90126a27fb1b)
+
+
+![Screenshot (13)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/e5bbd770-971b-4848-915c-8a32fe66d14c)
+
+
+
+![Screenshot (14)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/32dfcdf3-9759-4ad9-8348-4cec5099fcbf)
+
+
+
+![Screenshot (15)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/f37cc7c7-4ba7-4308-bb82-9b5cef475690)
+
+
+![Screenshot (16)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/1904ebc7-567b-4e5f-9dcc-9d6db6154199)
+
+enums:
+
+![Screenshot (17)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/6cc3f0fa-b2ed-4de5-b2b4-700fd235a9aa)
+
+
+
+![Screenshot (18)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/b0d8be4c-4bb0-4a0a-a83b-012b83f340be)
+
+mappers:
+
+![Screenshot (20)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/a0eaf779-4799-4b3e-ab44-dfc3ad1886dc)
+
+repositories:
+
+
+
+![Screenshot (21)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/38724e89-9be6-4a58-a84b-6ff860805563)
+
+
+![Screenshot (22)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/10433931-a383-4c3c-93fd-537fc94806d0)
+
+
+![Screenshot (23)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c757b0ac-45f5-4d5c-87dd-6a09cbd4633b)
+
+service:
+
+
+![Screenshot (24)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/e8d92dd4-4043-400b-8356-e14f1e09a8f5)
+
+
+![Screenshot (25)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c1723b1f-ed19-49d8-b0b4-0578c3c0c852)
+
+
+
+![Screenshot (26)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c164baf4-cdff-42c7-8ec7-b8550a205b49)
+
+web:
+
+![Screenshot (27)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/7d625817-f457-4296-8ec0-e3a9836198fb)
+
+
+![Screenshot (28)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/e2eede54-c2e3-4dbb-91e7-f67a060da190)
+
+
+resources:
+
+![Screenshot (29)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c56a3d07-af72-4303-93a7-03766cb6fe6e)
+
+
 
 
 
