@@ -18,4 +18,8 @@ Inversion de contrôle et Injection des dépendances. This repository contains :
 
 ## Activity 3 : 
 
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2 
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2
+
+## Activity 4 :
+
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2%20secured
