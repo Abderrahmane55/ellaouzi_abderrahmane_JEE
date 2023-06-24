@@ -23,3 +23,7 @@ Inversion de contrôle et Injection des dépendances. This repository contains :
 ## Activity 4 :
 
 - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2%20secured
+
+## Activity 5 PROJET DIGITAL-BANKING:
+
+
