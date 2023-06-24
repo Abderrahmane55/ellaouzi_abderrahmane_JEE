@@ -98,9 +98,8 @@ Base de donnees MySQL:
 ![2](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/a8803d19-e07a-4d1f-9ba8-8c4bad948746)
 
 ![3](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/69c595b7-ffbe-4397-8d29-2283427ea51c)
-
-![4](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/4ede6ad6-8ad2-4def-a770-ebadb69d94fa)
 Resultats:
+![4](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/4ede6ad6-8ad2-4def-a770
 ![5](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/5f4f8405-a72e-41e2-a8e2-4395c1383345)
 
 ![6](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/9d40ce8c-9d16-4e27-8173-c698f1a1b6f2)
