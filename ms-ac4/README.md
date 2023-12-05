@@ -5,45 +5,7 @@
   
 ## Activity 4 :
 
-https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/ms-ac4
 
-## Activity 5 :
+![ac4 1](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c0bfbd8a-c09c-485c-9373-563da18d3462)
 
-https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/emsi-app
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------
-Inversion de contrôle et Injection des dépendances. This repository contains :
-
-## Activity 1 :
-
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/enset-ioc-2
-
-## Activity 2 :
-
-- part1:  https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap
-
-- part2:  https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/hospital
-
-- part3:  https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-emsi
-
-## Activity 3 : 
-
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2
-
-## Activity 4 :
-
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2%20secured
-
-## Activity 5 :
-
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/ebanking-backend
-
+![ac4 1 1](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/ce5b8e50-20b2-4b51-9e21-dcd6e5d9a402)
