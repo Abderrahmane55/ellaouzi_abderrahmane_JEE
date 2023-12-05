@@ -1,7 +1,26 @@
 # Abderrahmane Ellaouzi G42
 #  JEE Activities Encadrant : Professeur Mohamed YOUSSFI 
-               
 
+  #  CONTROLE
+  
+## Activity 4 :
+
+https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/ms-ac4
+
+## Activity 5 :
+
+https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/emsi-app
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
 Inversion de contrôle et Injection des dépendances. This repository contains :
 
 ## Activity 1 :
