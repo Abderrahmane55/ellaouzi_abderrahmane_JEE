@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.BCN-Bd-tIk-3uVjFa2eGDxKOkwTEFFndv2k8mvSnxHw"
+    },
+    {
+      "id": "user",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.Iq3HB7FlxfKhGTiZzl_OftBZO36dY6d8NWa8Bd5Gzuk"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.qHHnHR-thONnlidxCKUUmCqKCntvcfGnRNjT6876-1o"
+    }
+  ],
+  "products": [
+    {
+      "id": 15,
+      "name": "Smartwatch",
+      "price": "2500",
+      "checked": false
+    },
+    {
+      "id": 16,
+      "name": "Laptop Pro",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "id": 17,
+      "name": "Smart TV",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "id": 18,
+      "name": "Tablet",
+      "price": 3000,
+      "checked": false
+    },
+    {
+      "id": 19,
+      "name": "Apple Mobile 15",
+      "price": 20000,
+      "checked": false
+    },
+    {
+      "id": 20,
+      "name": "Mobile Huawei",
+      "price": 1200,
+      "checked": false
+    },
+    {
+      "id": 21,
+      "name": "Mobile Samsung",
+      "price": 1200,
+      "checked": false
+    },
+    {
+      "id": 24,
+      "name": "Smart TV Pro",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "id": 25,
+      "name": "Super TV Brand",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "id": 26,
+      "name": "TV Deluxe",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "id": 28,
+      "name": "Gaming Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "id": 29,
+      "name": "UltraSlim Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "id": 31,
+      "name": "Professional Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "id": 32,
+      "name": "iPhone 13",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": 33,
+      "name": "Redmi 9",
+      "price": "1000",
+      "checked": false
+    },
+    {
+      "id": 34,
+      "name": "new Prod",
+      "price": "23569",
+      "checked": true
+    }
+  ]
+}
