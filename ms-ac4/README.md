@@ -12,3 +12,12 @@
 customer service
 
 ![ac4 cus serv](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/3f94bebb-08e4-4753-ab80-d6b04cbd8fc5)
+
+
+Gateway 
+
+
+Customer-service
+
+
+![cus serv](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/65191ffd-44e0-499d-b80a-5a355d5f4ef7)
