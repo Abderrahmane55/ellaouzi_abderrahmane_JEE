@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+    }
+
+    #sidebar {
+      height: 100%;
+      width: 250px;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #540303; /* Light red background color */
+      padding-top: 20px;
+      color: #ffffff; /* White text color */
+    }
+
+    .nav-item-container {
+      background-color: #343131; /* Black background color for containers */
+      border: 2px solid #fff; /* White border */
+      margin-bottom:9px; /* Add margin between containers */
+      padding: 6px; /* Padding inside containers */
+      width: 160px;
+      margin:15px;
+    }
+
+    #sidebar a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 18px;
+      display: block;
+      transition: 0.3s;
+      font-weight: bold; /* Bold text */
+    }
+
+    #sidebar a:hover {
+      color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+
+<div id="sidebar">
+  <div class="nav-item-container">
+    <a class="nav-link active" routerLink="/products">Products</a>
+  </div>
+  <div class="nav-item-container">
+    <a class="nav-link" routerLink="/customers">Customers</a>
+  </div>
+  <div class="nav-item-container">
+    <div class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Dropdown</a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">Link</a></li>
+        <li><a class="dropdown-item" href="#">Another link</a></li>
+        <li><a class="dropdown-item" href="#">A third link</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div style="margin-left: 250px; padding: 20px; ">
+  <!-- Your page content goes here -->
+  <router-outlet></router-outlet>
+</div>
+
+
+
+</body>
+</html>
