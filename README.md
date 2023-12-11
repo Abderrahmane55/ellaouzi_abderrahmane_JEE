@@ -2,7 +2,20 @@
 #  JEE Activities Encadrant : Professeur Mohamed YOUSSFI 
 
   #  CONTROLE
-  
+
+
+  ## Activity 1 :
+
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/activ1
+
+## Activity 2 :
+
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/bank-account-service
+
+## Activity 3 : 
+
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/ecom-application
+
 ## Activity 4 :
 
 https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/blob/main/ms-ac4/README.md
