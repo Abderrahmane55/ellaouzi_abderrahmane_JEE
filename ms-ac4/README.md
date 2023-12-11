@@ -21,3 +21,16 @@ Customer-service
 
 
 ![cus serv](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/65191ffd-44e0-499d-b80a-5a355d5f4ef7)
+
+
+
+vault (Keypair):
+
+
+![vault](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/fb51d543-d691-4c54-9c03-2793844d1407)
+
+
+Test Angular:
+
+
+![angular](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/60f1feb0-6b18-42d4-991c-967ad1c48717)
